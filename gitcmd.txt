@@ -1,0 +1,194 @@
+
+Karthik rao@LAPTOP-KU1Q1QJB MINGW64 ~ (master)
+$ history
+    1  cd
+    2  cd
+    3  mkdir
+    4  mkdir git
+    5  cd git
+    6  pwd
+    7  ls
+    8  Absolute path
+    9  cd Absolute path
+   10  git init
+   11  git add
+   12  git status all
+   13  git status
+   14  git status all
+   15  git config --global user.email 'karthikrao307@gmail.com
+   16  ls
+   17  ls
+   18  cd desktop
+   19  ls
+   20  cd ..
+   21  ls
+   22  cd f:
+   23  ls
+   24  mkdir GIT
+   25  mkdir gitp
+   26  ls
+   27  cd gitp
+   28  ls
+   29  git commt -m "First commit"
+   30  git commit -m "First commit"
+   31  git config --global user.email 'karthikrao307@gmail.com'
+   32  git config --global user.name Karthik307
+   33  git config user.email
+   34  git config user.name
+   35  git commit -m "First commit"
+   36  git commit -m "First Commit"
+   37  ls
+   38  cd C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Git
+   39  cd C:
+   40  ls
+   41  cd ProgramData\Microsoft\Windows\Start Menu\Programs\Git
+   42  git init
+   43   git status
+   44  git add
+   45  git add t.txt
+   46  git config --global user.email 'karthikrao307@gmail.com'
+   47   git config --global user.user 'Karthik307'
+   48  git config user.email
+   49  git config user.name
+   50   git commit -m "First Commit"
+   51   git log
+   52  git log
+   53  git remote add Adv-prog https://github.com/Karthik307/Adv-prog
+   54  git remote -v
+   55  git pull Adv-prog master
+   56  cd Adv-prog
+   57  mkdir Adv-prog
+   58  cd
+   59  ls
+   60  git remote add Adv-prog https://github.com/Karthik307/Adv-prog
+   61   git remote -v
+   62  git pull Adv-prog master
+   63  git pull Adv-prog master
+   64  git remote add Adv-prog https://github.com/Karthik307/Adv-prog
+   65  git remote add Adv-prog https://github.com/Karthik307/Adv-prog
+   66   git remote show
+   67  git remote -v
+   68  git pull Adv-prog master
+   69  git pull Adv-prog master
+   70  git pull Adv-Prog master
+   71  git pull Adv-prog master
+   72  clear
+   73  ls
+   74  pwd
+   75  ls
+   76  mkdir git
+   77  cd git
+   78  ls
+   79  pwd
+   80   git init
+   81  git status
+   82  git add hello.txt
+   83  git add hell
+   84  git add hell.py
+   85  git add hello
+   86  git status
+   87   git config --global user.email 'karthikrao307@gmail.com'
+   88   git config --global user.user 'karthik307'
+   89   git config --global user.name 'karthik307'
+   90  git config user.email
+   91  git config user.name
+   92  git commit -m "First Commit"
+   93  git log
+   94  commit
+   95   mkdir Adv-Prog
+   96  ls
+   97  cd Adv-Prog
+   98  git remote add Adv-Prog https://github.com/Karthik307/Adv-Prog
+   99   git remote show
+  100  git remote -v
+  101   git pull Adv-Prog master
+  102  ls
+  103  cd git
+  104  ls
+  105  cd Adv-Prog
+  106  ls
+  107  clear
+  108  pwd
+  109  cd F:
+  110  cd Git
+  111  cd GIT
+  112  pwd
+  113  ld
+  114  ls
+  115  cd git
+  116  ls
+  117  cd Adv-Prog
+  118  git init
+  119   git status
+  120  git add Data.txt
+  121  git add Data.txt
+  122  cd f:
+  123  ls
+  124  cd GIT'
+  125  cd git
+  126  ls
+  127  cd Git
+  128   mkdir AIandML
+  129  ls
+  130  cd AIandML
+  131  pwd
+  132  clear
+  133  ls
+  134  touch Data.txt
+  135   ls
+  136  cat Data.txt
+  137  echo "AIandML" > Data.txt
+  138  cat Data.txt
+  139   gedit Data.txt
+  140   clear
+  141  nano Data.txt
+  142   cat Data.txt
+  143  nano Data.txt
+  144  cat Data.txt
+  145  clear
+  146  ls
+  147  Karthik rao@LAPTOP-KU1Q1QJB MINGW64 /f/Git/AIandML
+  148  $ ls
+  149  Data.txt
+  150  Karthik rao@LAPTOP-KU1Q1QJB MINGW64 /f/Git/AIandML
+  151  $
+  152  clear
+  153   nano test.txt
+  154  cat test.txt
+  155  ls
+  156  git init
+  157   git status
+  158   git add Data.txt
+  159  git status
+  160  git commit -m "First Commit"
+  161  clear
+  162   git config --global user.email 'madishettyanilkumar9@gmail.com'
+  163    git config --global user.email 'madishettyanilkumar9@gmail.com'
+  164  git config --global user.email 'karthikrao307@gmail.com'
+  165  git config --global user.name 'Karthik307'
+  166   git config user.email
+  167   git config user.name
+  168  clear
+  169  git status
+  170   nano Data.txt
+  171  git status
+  172   git add Data.txt
+  173  git commit -m "Second Commit"
+  174   git log
+  175  clear
+  176  mkdir Adv-Prog
+  177  ls
+  178  git remote add Adv-Prog https://github.com/Karthik307/Adv-Prog
+  179    git remote show
+  180  git remote -v
+  181   git pull Adv-Prog master
+  182  git push -u Adv-Prog
+  183  git push --set-upstream Adv-Prog master
+  184  git push -f --set-upstream Adv-Prog master
+  185  history
+
+Karthik rao@LAPTOP-KU1Q1QJB MINGW64 ~ (master)
+$ ^C
+
+Karthik rao@LAPTOP-KU1Q1QJB MINGW64 ~ (master)
+$
